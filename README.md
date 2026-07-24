@@ -1,5 +1,8 @@
 # 🔐 Spring Boot JWT Authentication
 
+## Akash M
+## 212224230013
+## 3rd year Prime Batch
 A secure authentication system built using **Spring Boot 4**, **Spring Security**, **JWT (JSON Web Token)**, **BCrypt Password Encoding**, and **MySQL**.
 
 This project demonstrates how modern stateless authentication works using JWT instead of traditional HTTP sessions.
